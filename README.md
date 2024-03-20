@@ -2,9 +2,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjE5eXhoeG04dTdkMm5tNnY1Y2hsdWhoejc3Zmk1YW9rd3ZkYjFvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" width="300"/>
 </div>
 
-  <a href="your-linkedin-URL" align="center">
+ <div id="badges" align="center">
+  <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
 
 <h1 align="center">
   Hey there
